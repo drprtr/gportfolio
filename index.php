@@ -43,6 +43,7 @@
     <!-- Page Content -->
     <div class="container">
 
+
         <!-- Marketing Icons Section -->
         <div class="row">
             <div class="col-lg-12">
@@ -53,22 +54,22 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-check"></i> Skills and Experience</h4>
+                        <h4><i class="fa fa-fw fa-cloud"></i> About me</h4>
                     </div>
                     <div class="panel-body">
-                        <p>My current role as e-Learning Manager at Walbotle Campus requires a broad skillset including design, development, project management, client liaison and strategic planning.</p>
-                        <a href="#skills" class="btn btn-default">Learn More</a>
+                        <p>I'm a self motivated and experienced designer-developer currently the e-Learning Manager at Walbottle Campus secondary school in Newcastle. I have several years experience in leading web-design and development of teaching and learning applications.</p>
+                        <a href="#about" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-cloud"></i> e-Learning Vision</h4>
+                        <h4><i class="fa fa-fw fa-check"></i> Skills and Experience</h4>
                     </div>
                     <div class="panel-body">
-                        <p>e-learning is tied closely to digital literacy it's about accessing digital materials, processing them and then demonstrating learning using digital means</p>
-                        <a href="#vision" class="btn btn-default">Learn More</a>
+                        <p>My current role as e-Learning Manager at Walbotle Campus requires a broad skillset including design, development, project management, client liaison and strategic planning.</p>
+                        <a href="#skills" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -79,15 +80,39 @@
                     </div>
                     <div class="panel-body">
                         <p>Descriptions of recently completed and current projects at Walbottle Campus.</p>
-                        <a href="#portfolio" class="btn btn-default">Learn More</a>
+                        <a href="#portfolio" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
         </div>
         <!-- /.row -->
 
+
+        <!-- Features Section -->
+        <div class="row" id="about">
+            <div class="col-lg-12">
+                <h2 class="page-header">About me</h2>
+            </div>
+            <div class="col-md-6">
+                <p><strong>Walbottle Campus</strong> Jan 2010 - date</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+                <p><strong>Heaton Manor School</strong> Apr 2008 - Jan 2010</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+                <p><strong>University of Sunderland</strong> 2000 - 2004</p>
+                <p>BSc (Hons) Internet Information Systems</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+                <p><strong>Cramlington Learning Village</strong> Jun 2005 - Apr 2008</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+                
+            </div>
+            <div class="col-md-6">
+                <img class="img-responsive" src="./assets/stock-img/DeathtoStock_Desk8.jpg" alt="">
+            </div>
+        </div>
+        <!-- /.row -->
+
    <!-- Service Tabs -->
-        <div class="row">
+        <div class="row" id="skills">
             <div class="col-lg-12">
                 <h2 class="page-header">My Skills</h2>
             </div>
@@ -173,9 +198,9 @@
         <!-- ./ Skills Tabs -->
 
         <!-- Portfolio Section -->
-        <div class="row">
+        <div class="row" id="portfolio">
             <div class="col-lg-12">
-                <h2 class="page-header">Portfolio Heading</h2>
+                <h2 class="page-header">Portfolio</h2>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">
@@ -210,29 +235,7 @@
         </div>
         <!-- /.row -->
 
-        <!-- Features Section -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="page-header">Modern Business Features</h2>
-            </div>
-            <div class="col-md-6">
-                <p>The Modern Business template by Start Bootstrap includes:</p>
-                <ul>
-                    <li><strong>Bootstrap v3.2.0</strong>
-                    </li>
-                    <li>jQuery v1.11.0</li>
-                    <li>Font Awesome v4.1.0</li>
-                    <li>Working PHP contact form with validation</li>
-                    <li>Unstyled page elements for easy customization</li>
-                    <li>17 HTML pages</li>
-                </ul>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
-            </div>
-            <div class="col-md-6">
-                <img class="img-responsive" src="http://placehold.it/700x450" alt="">
-            </div>
-        </div>
-        <!-- /.row -->
+
 
         <hr>
 
@@ -243,7 +246,7 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.</p>
                 </div>
                 <div class="col-md-4">
-                    <a class="btn btn-lg btn-default btn-block" href="#">Call to Action</a>
+                    <a class="btn btn-lg btn-default btn-block" href="contact.php">Contact me!</a>
                 </div>
             </div>
         </div>
@@ -254,7 +257,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; Your Website 2014</p>
+                    <p>Copyright &copy; Graeme Porter 2014</p>
                 </div>
             </div>
         </footer>

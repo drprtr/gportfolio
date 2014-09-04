@@ -94,16 +94,19 @@
                 <h2 class="page-header">About me</h2>
             </div>
             <div class="col-md-6">
-                <p><strong>Walbottle Campus</strong> Jan 2010 - date</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
-                <p><strong>Heaton Manor School</strong> Apr 2008 - Jan 2010</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
-                <p><strong>University of Sunderland</strong> 2000 - 2004</p>
-                <p>BSc (Hons) Internet Information Systems</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
-                <p><strong>Cramlington Learning Village</strong> Jun 2005 - Apr 2008</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
-                
+                <p><strong>Walbottle Campus</strong> Jan 2010 - date<br>
+                  <i>e-Learning Manager</i></p>
+                <p>Lead Developer and Designer of teaching and learning applications for a rapidly improving secondary school. Managing a team of web developers and designers, project management, strategic planning, leading on several whole school technology initiatives, introducing new technology to support teaching and learning.</p>
+                <p><strong>Heaton Manor School</strong> Apr 2008 - Jan 2010<br>
+                  <i>ICT Analyst</i></p>
+                <p>Provided implementation and support for teaching and learning applications, content management systems, virtual learning environments and education support applications.</p>
+                <p><strong>Cramlington Learning Village</strong> Jun 2005 - Apr 2008<br>
+                  <i>ICT Technician</i></p>
+                  <p>Provided onsite ICT support and web development along with other roles at an outstanding secondary school.</p>
+                <p><strong>University of Sunderland</strong> 2000 - 2004<br>
+                  <i>BSc (Hons) Internet Information Systems</i></p>
+                <p>Web Development, Systems Analysis and Design, Object Oriented Programming, Database Management, Information Systems</p>
+
             </div>
             <div class="col-md-6">
                 <img class="img-responsive" src="./assets/stock-img/DeathtoStock_Desk8.jpg" alt="">
@@ -131,17 +134,13 @@
 
                 <div id="myTabContent" class="tab-content">
                     <div class="tab-pane fade active in" id="service-one">
-                        <h4>Project Management</h4>                        
-                        Agile project development
-                        Reduces Churn - respond to emergent requirements
-                        Project Owner - liaises with client
-                        Before development starts break project down into Sprint Cycles
-                        Allocate development resources and deadline to each sprint cycle
-                        Daily updates with dev team about each Sprint (Sprint Meeting)
-                        Each Sprint produces a finished product that is ready to launch or integrate inot the whole project
-                        At the end of each Sprint hold a Sprint Review to feed into the next Sprint
-                        Saves development time as Sprints can be signed off individually by the Project Owner
-                        Scrum Master - Often outside the project team; job to remove impediments to the project
+                        <h4>Project Management</h4>
+                        <p>I am an advocate of agile project development methods and currently use the Scrum Methodology with my team</p>
+                        <p>Scrum is an agile process most commonly used for product development, especially software development.
+                          Scrum is a project management framework that is applicable to any project with aggressive deadlines, complex requirements and a degree of uniqueness.
+                          In Scrum, projects move forward via a series of iterations called sprints. A sprint period represents a specific outcome from any part of the project, rather than treating the project as a series of sequential milestones.</p>
+                          <p>At the end of each sprint, the team produces a potentially shippable product increment — i.e. working, high-quality software. Each day during the sprint, team members meet to discuss their progress and any impediments to completing the work for that sprint. This is known as the daily scrum, hence the name.</p>
+                        <p>In Scrum, a team is cross functional, meaning everyone is needed to take a feature from idea to implementation. This leads to highly skilled teams with each member having a broad skillbase to allow them to adapt to the project requirements. Directing and supporting the development of the team members is essential for the organisation.</p>
                     </div>
                     <div class="tab-pane fade" id="service-two">
                         <h4>Version Control</h4>
@@ -161,34 +160,52 @@
                     </div>
                     <div class="tab-pane fade" id="service-three">
                         <h4>Managing Client Expectations</h4>
+                        <p>The key principles I use for managing expectations</p>
                         <ul>
-	                        <li>Be Honest From The Get-Go.  As with most things in life, there are too many factors at play to make any grandiose promises. Helping the client to understand the project tempers their expectations and keeps them involved inthe development cycle. The client will never feel that you are hiding anything from them or short-changing them in terms of your commitment.
+	                        <li><strong>Be Honest From The Get-Go.</strong>  As with most things in life, there are too many factors at play to make any grandiose promises. Helping the client to understand the project tempers their expectations and keeps them involved inthe development cycle. The client will never feel that you are hiding anything from them or short-changing them in terms of your commitment.
 	                        </li>
-	                        <li>Under-Promise , Over-Deliver. Agree clear requirements for the project that meet the minimum expectations of the client. Any extras that emerge during the development cycle will be seen as adding value.
+	                        <li><strong>Under-Promise , Over-Deliver.</strong> Agree clear requirements for the project that meet the minimum expectations of the client. Any extras that emerge during the development cycle will be seen as adding value.
 	                        </li>
-	                        <li>Anticipate the Client’s Needs Before They Know Their Own Need. Keep up to date with the business environment and emerging trends, be able to talk to the client about what other actors are doing to help them plan their project. This reduces the amount of 'feature creep' during development.
+	                        <li><strong>Anticipate the Client’s Needs Before They Know Their Own Need.</strong> Keep up to date with the business environment and emerging trends, be able to talk to the client about what other actors are doing to help them plan their project. This reduces the amount of 'feature creep' during development.
 	                        </li>
-	                        <li>Constant Communication.  I can recognise when things are going great and when we need to ramp up our efforts. It’s important to share that with a client. Hopefully just knowing you’re available and ready to jump on a project as needed will be enough so that your client’s won’t abuse your generosity with time.
+	                        <li><strong>Constant Communication.</strong>  I can recognise when things are going great and when we need to ramp up our efforts. It’s important to share that with a client. Hopefully just knowing you’re available and ready to jump on a project as needed will be enough so that your client’s won’t abuse your generosity with time.
 	                        </li>
-	                        <li>Reports. Reports don’t have to be very long, or in a format that clogs up a lot of your time. A simple email detailing tasks completed for the week shows your clients what they’re paying for, and thus, keeps them happy.
+	                        <li><strong>Reports.</strong> Reports don’t have to be very long, or in a format that clogs up a lot of your time. A simple email detailing tasks completed for the week shows your clients what they’re paying for, and thus, keeps them happy.
 	                        </li>
                         </ul>
                     </div>
                     <div class="tab-pane fade" id="service-four">
+                      <div class="col-md-6">
+                        <h4>Design &amp; Development</h4>
+                        <p>I create web based applications focussing on engaging and intuitive user interfaces to deliver personalised data rich experiences to my users.</p>
+                        <p>I am responsible for every aspect of the developement process; from user experience, interface design, system architecture, database design and managing the production schedule.</p>
+                      </div>
+                      <div class="col-md-3">
                         <h4>Skills Summary</h4>
                         <p>
                         	<ul>
                         		<li>HTML(5)</li>
                         		<li>CSS(3)</li>
-                        		<li>Photoshop</li>
-                        		<li>Responsive Web Design</li>
-	                            <li>W3C Standards &amp; Accessibility</li>
-	                            <li>Web Design</li>
-	                            <li>GitHub</li>
-	                            <li>Javascript</li>
-	                            <li>jQuery</li>
+                            <li>PHP</li>
+                            <li>MySQL</li>
+                            <li>AngularJS</li>
+                            <li>jQuery</li>
                         	</ul>
                         </p>
+                      </div>
+                      <div class="col-md-3">
+                        <h4>&nbsp;</h4>
+                        <p>
+                          <ul>
+                            <li>Responsive Web Design</li>
+                            <li>W3C Standards &amp; Accessibility</li>
+                            <li>MVC Architecture</li>
+                            <li>Content Management Systems</li>
+                            <li>GitHub</li>
+                            <li>Adobe Photoshop and Illustrator</li>
+                          </ul>
+                        </p>
+                      </div>
                     </div>
                 </div>
 

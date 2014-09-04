@@ -161,35 +161,34 @@
                     </div>
                     <div class="tab-pane fade" id="service-three">
                         <h4>Managing Client Expectations</h4>
-                        Be Honest From The Get-Go.  As with most things in life, there are too many factors at play to make any grandiose promises. Helping the client to understand the project tempers their expectations and keeps them involved inthe development cycle. The client will never feel that you are hiding anything from them or short-changing them in terms of your commitment.
-
-                        Under-Promise , Over-Deliver. Agree clear requirements for the project that meet the minimum expectations of the client. Any extras that emerge during the development cycle will be seen as adding value.
-
-                        Anticipate the Client’s Needs Before They Know Their Own Need. Keep up to date with the business environment and emerging trends, be able to talk to the client about what other actors are doing to help them plan their project. This reduces the amount of 'feature creep' during development.
-
-                        Constant Communication.  I can recognise when things are going great and when we need to ramp up our efforts. It’s important to share that with a client. Hopefully just knowing you’re available and ready to jump on a project as needed will be enough so that your client’s won’t abuse your generosity with time.
-
-                        Reports. Reports don’t have to be very long, or in a format that clogs up a lot of your time. A simple email detailing tasks completed for the week shows your clients what they’re paying for, and thus, keeps them happy.
-                                            </div>
+                        <ul>
+	                        <li>Be Honest From The Get-Go.  As with most things in life, there are too many factors at play to make any grandiose promises. Helping the client to understand the project tempers their expectations and keeps them involved inthe development cycle. The client will never feel that you are hiding anything from them or short-changing them in terms of your commitment.
+	                        </li>
+	                        <li>Under-Promise , Over-Deliver. Agree clear requirements for the project that meet the minimum expectations of the client. Any extras that emerge during the development cycle will be seen as adding value.
+	                        </li>
+	                        <li>Anticipate the Client’s Needs Before They Know Their Own Need. Keep up to date with the business environment and emerging trends, be able to talk to the client about what other actors are doing to help them plan their project. This reduces the amount of 'feature creep' during development.
+	                        </li>
+	                        <li>Constant Communication.  I can recognise when things are going great and when we need to ramp up our efforts. It’s important to share that with a client. Hopefully just knowing you’re available and ready to jump on a project as needed will be enough so that your client’s won’t abuse your generosity with time.
+	                        </li>
+	                        <li>Reports. Reports don’t have to be very long, or in a format that clogs up a lot of your time. A simple email detailing tasks completed for the week shows your clients what they’re paying for, and thus, keeps them happy.
+	                        </li>
+                        </ul>
+                    </div>
                     <div class="tab-pane fade" id="service-four">
-                        <h4>Design &amp; Developments</h4>
-                        Skills Summary
-
-                            HTML(5)
-                            XHTML
-                            CSS(3)
-                            LESS
-                            Sass
-                            Photoshop
-                            Responsive Web Design
-
-                            Progressive enhancement
-                            W3C Standards &amp; Accessibility
-                            Cross browser compatibility
-                            Web Design
-                            GitHub
-                            Javascript
-                            jQuery
+                        <h4>Skills Summary</h4>
+                        <p>
+                        	<ul>
+                        		<li>HTML(5)</li>
+                        		<li>CSS(3)</li>
+                        		<li>Photoshop</li>
+                        		<li>Responsive Web Design</li>
+	                            <li>W3C Standards &amp; Accessibility</li>
+	                            <li>Web Design</li>
+	                            <li>GitHub</li>
+	                            <li>Javascript</li>
+	                            <li>jQuery</li>
+                        	</ul>
+                        </p>
                     </div>
                 </div>
 

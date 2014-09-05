@@ -233,7 +233,7 @@
                         <h3>Student Dashboard<br>
                             <small>Personalised Homepage</small>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                        <p>The school portal is the central hub to all our e-learning elements. It provides a common centre for information dissemination and links to the various elements that the user will need. Single-sign-on (SSO), and personal profiles provide a seamless, personalised experience for each user.</p>
                     </div>
                 </a>
                 </div>
@@ -246,7 +246,7 @@
                         <h3>Lesson Planning<br>
                             <small>Bespoke content management system</small>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                        <p>When Walbottle Campus adopted a new lesson planning model we developed an online content management to enable staff to collaboratively plan lessons and provide a web based lesson delivery system. Over time the system grew to provide access to learning resources for students.</p>
                     </div>
                 </a>
                 </div>
@@ -254,12 +254,12 @@
             <div class="col-md-4 col-sm-6">
                 <div class="thumbnail">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="./assets/img/website.png" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="./assets/dashboard.png" alt="">
                     <div class="caption">
-                        <h3>School Website<br>
-                            <small>Responsive, accessible design</small>
+                        <h3>Pastoral Logs<br>
+                            <small>Centralised record keeping</small>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                        <p>A student's welfare is an integral part of Walbottle Campus. Centralised record keeping is essential to ensure students needs are managed appropriately. working closely with the EWO Manager a system was designed and put in place to enforce an efficent and effective procedure. </p>
                     </div>
                 </a>
                 </div>
@@ -272,7 +272,7 @@
                         <h3>Learning Spaces<br>
                             <small>Sharing learning resources</small>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                        <p>All subjects at Walbottle have their own web based learning space. Making resources available online through the cloud at any time and any place means that the learning environment is extended beyond the classroom. </p>
                     </div>
                 </a>
                 </div>
@@ -285,7 +285,7 @@
                         <h3>Rewards System<br>
                             <small>What do points mean?</small>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                        <p>Rewarding students' achievements is fundamental to the ethic of excellence at Walbottle Campus. A system was needed to manage rewards claimed by students. Teachers can easily access their class lists and allocate rewards points against criteria with a single click. Students can access the Rewards Shop to cash in their points and collect their rewards from their Year Leader.</p>
                     </div>
                 </a>
                 </div>
@@ -298,7 +298,7 @@
                         <h3>Reports and Data<br>
                             <small>Recording progress</small>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                        <p>The school reports project reduces administration and teacher time for writing and printing reports. By importing attainment data from our MIS and combining it with teacher written reports we have reduced the time taken to complie, check and print students reports to be sent to parents.</p>
                     </div>
                 </a>
                 </div>
@@ -314,7 +314,7 @@
         <div class="well">
             <div class="row">
                 <div class="col-md-8">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.</p>
+                    <p></p>
                 </div>
                 <div class="col-md-4">
                     <a class="btn btn-lg btn-default btn-block" href="contact.php">Contact me!</a>

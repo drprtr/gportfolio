@@ -12,19 +12,19 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('./assets/stock-img/DeathtoStock_Desk5.jpg');"></div>
+                <div class="fill" style="background-image:url('./assets/DeathtoStock_Desk1.png');"></div>
                 <div class="carousel-caption">
                     <h2>Web Development</h2>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('./assets/stock-img/DeathtoStock_Desk3.jpg');"></div>
+                <div class="fill" style="background-image:url('./assets/DeathtoStock_NotStock7.png');"></div>
                 <div class="carousel-caption">
                     <h2>Graphic Design</h2>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('./assets/stock-img/DeathtoStock_Desk1.jpg');"></div>
+                <div class="fill" style="background-image:url('./assets/DeathtoStock_Desk7.png');"></div>
                 <div class="carousel-caption">
                     <h2>Project Management</h2>
                 </div>
@@ -109,7 +109,7 @@
 
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="./assets/stock-img/DeathtoStock_Desk8.jpg" alt="">
+                <img class="img-responsive" src="./assets/DeathtoStock_Desk8.png" alt="">
             </div>
         </div>
         <!-- /.row -->
@@ -144,19 +144,24 @@
                     </div>
                     <div class="tab-pane fade" id="service-two">
                         <h4>Version Control</h4>
-                        Easily manage multiple projects within an organization (Or dev cycles within a single project)
-                        Integrated issue tracking.lets you stay on top of bugs and focus on features.
-                        Set a due date, name your milestone, then start grouping issues together.
-                        Accountability and performance review for team members
-                        Collaborative code review - speeds up bug smashing and problem solving
-                        Version tracking and branching - test multiple solutions simultaneously
-                        Rapid Deployment (and reversion)
-                        Automatic backups
-                        Provides one method for an entire team to use; everybody operates under the same 'ground rules'.
-                        Changes are orderly vs. chaotic, saving development time
-                        The ability to track changes promotes accountability and makes it easier to find the right person to solve problems in the materials maintained.
+                        <p>A Version Control system allows a development team to easily manage a software development project.
+                        It provides tools to track and control changes to files to allow several developers to work on the same project. 
+                        A system such as Git also provides bug tracking, issue reporting and task management tools.</p>
+                        <p>The ability to track changes promotes accountability and makes it easier to find the right person to solve problems in the materials maintained.
                         A list of exact changes made can be generated quickly and easily, making it easier to advise users of the information on how it has changed from version to version.
-                        It is easy to 'roll back' to an earlier version of the information, if a serious mistake was made during a change.
+                        It is easy to 'roll back' to an earlier version of the information, if a serious mistake was made during a change.</p>
+                        <p>Other benefits include
+                            <ul>
+                                <li>Integrated issue tracking, lets you stay on top of bugs and focus on features.</li>
+                                <li>Accountability and performance review for team members</li>
+                                <li>Collaborative code review - speeds up bug smashing and problem solving</li>
+                                <li>Version tracking and branching - test multiple solutions simultaneously</li>
+                                <li>Rapid Deployment (and reversion)</li>
+                                <li>Automatic backups</li>
+                                <li>Provides one method for an entire team to use; everybody operates under the same 'ground rules'.</li>
+                                <li>Changes are orderly vs. chaotic, saving development time.</li>
+                            </ul>
+                        </p>
                     </div>
                     <div class="tab-pane fade" id="service-three">
                         <h4>Managing Client Expectations</h4>
@@ -177,33 +182,35 @@
                     <div class="tab-pane fade" id="service-four">
                       <div class="col-md-6">
                         <h4>Design &amp; Development</h4>
-                        <p>I create web based applications focussing on engaging and intuitive user interfaces to deliver personalised data rich experiences to my users.</p>
-                        <p>I am responsible for every aspect of the developement process; from user experience, interface design, system architecture, database design and managing the production schedule.</p>
+                        <p>I create web based applications focusing on engaging and intuitive user interfaces to deliver personalised data rich experiences to users.</p>
+                        <p>As lead developer I am responsible for every aspect of the developement process; from user experience, interface design, system architecture, database design and managing the production schedule.</p>
                       </div>
                       <div class="col-md-3">
                         <h4>Skills Summary</h4>
-                        <p>
-                        	<ul>
-                        		<li>HTML(5)</li>
-                        		<li>CSS(3)</li>
-                            <li>PHP</li>
-                            <li>MySQL</li>
-                            <li>AngularJS</li>
-                            <li>jQuery</li>
-                        	</ul>
-                        </p>
-                      </div>
-                      <div class="col-md-3">
-                        <h4>&nbsp;</h4>
                         <p>
                           <ul>
                             <li>Responsive Web Design</li>
                             <li>W3C Standards &amp; Accessibility</li>
                             <li>MVC Architecture</li>
+                            <li>PHP Frameworks</li>
                             <li>Content Management Systems</li>
-                            <li>GitHub</li>
+                            <li>Distributed Version Control</li>
                             <li>Adobe Photoshop and Illustrator</li>
                           </ul>
+                        </p>
+                      </div>
+                      <div class="col-md-3">
+                        <h4>Programming Languages</h4>
+                        <p>
+                            <ul>
+                            <li>HTML(5)</li>
+                            <li>CSS(3)</li>
+                            <li>Javascript</li>
+                            <li>PHP</li>
+                            <li>MySQL</li>
+                            <li>AngularJS</li>
+                            <li>jQuery</li>
+                            </ul>
                         </p>
                       </div>
                     </div>
@@ -219,34 +226,82 @@
                 <h2 class="page-header">Portfolio</h2>
             </div>
             <div class="col-md-4 col-sm-6">
-                <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                <div class="thumbnail">
+                    <a href="portfolio-item.html">
+                    <img class="img-responsive img-portfolio img-hover" src="./assets/img/student-dashboard-thumb.png" alt="">
+                    <div class="caption">
+                        <h3>Student Dashboard<br>
+                            <small>Personalised Homepage</small>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                    </div>
                 </a>
+                </div>
             </div>
             <div class="col-md-4 col-sm-6">
+                <div class="thumbnail">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="./assets/img/vle.png" alt="">
+                    <div class="caption">
+                        <h3>Lesson Planning<br>
+                            <small>Bespoke content management system</small>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                    </div>
                 </a>
+                </div>
             </div>
             <div class="col-md-4 col-sm-6">
+                <div class="thumbnail">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="./assets/img/website.png" alt="">
+                    <div class="caption">
+                        <h3>School Website<br>
+                            <small>Responsive, accessible design</small>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                    </div>
                 </a>
+                </div>
             </div>
             <div class="col-md-4 col-sm-6">
+                <div class="thumbnail">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="./assets/img/learn-space.png" alt="">
+                    <div class="caption">
+                        <h3>Learning Spaces<br>
+                            <small>Sharing learning resources</small>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                    </div>
                 </a>
+                </div>
             </div>
             <div class="col-md-4 col-sm-6">
+                <div class="thumbnail">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="./assets/img/rewards.png" alt="">
+                    <div class="caption">
+                        <h3>Rewards System<br>
+                            <small>What do points mean?</small>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                    </div>
                 </a>
+                </div>
             </div>
             <div class="col-md-4 col-sm-6">
+                <div class="thumbnail">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-portfolio img-hover" src="http://placehold.it/700x450" alt="">
+                    <img class="img-responsive img-portfolio img-hover" src="./assets/img/reports.png" alt="">
+                    <div class="caption">
+                        <h3>Reports and Data<br>
+                            <small>Recording progress</small>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                    </div>
                 </a>
+                </div>
             </div>
         </div>
         <!-- /.row -->

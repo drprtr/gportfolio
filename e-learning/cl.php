@@ -48,41 +48,7 @@
 			</div>
 		</div>
 
-        <div class="row">
 
-            <div class="col-lg-12">
-                <h3 class="page-header">Related Elements</h3>
-            </div>
-
-            <div class="col-sm-3 col-xs-6">
-                <a href="#">
-                    <img class="img-responsive portfolio-item" src="./assets/dp.png">
-					<h4>Digital Portfolios</h4>
-                </a>
-            </div>
-
-            <div class="col-sm-3 col-xs-6">
-                <a href="#">
-                    <img class="img-responsive portfolio-item" src="./assets/sh.png">
-					<h4>Subject Homepages</h4>
-                </a>
-            </div>
-
-            <div class="col-sm-3 col-xs-6">
-                <a href="#">
-                    <img class="img-responsive portfolio-item" src="./assets/cl.png">
-					<h4>Google Drive</h4>
-                </a>
-            </div>
-
-            <div class="col-sm-3 col-xs-6">
-                <a href="#">
-                    <img class="img-responsive portfolio-item" src="./assets/portal.png">
-					<h4>Web Applications</h4>
-                </a>
-            </div>
-
-        </div>
 
     </div>
     <!-- /.container -->

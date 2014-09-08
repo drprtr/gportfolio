@@ -57,8 +57,8 @@
                         <h4><i class="fa fa-fw fa-cloud"></i> About me</h4>
                     </div>
                     <div class="panel-body">
-                        <p>I'm a self motivated and experienced designer-developer currently the e-Learning Manager at Walbottle Campus secondary school in Newcastle. I have several years experience in leading web-design and development of teaching and learning applications.</p>
-                        <a href="#about" class="btn btn-primary">Learn More</a>
+                        <p>I'm a self-motivated and experienced lead designer-developer, currently the e-Learning Manager at Walbottle Campus secondary school in Newcastle. I have several years experience in leading web-design and development of teaching and learning applications.</p>
+                        <a href="#about" class="btn btn-primary">Learn More <i class="fa fa-chevron-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -68,8 +68,9 @@
                         <h4><i class="fa fa-fw fa-check"></i> Skills and Experience</h4>
                     </div>
                     <div class="panel-body">
-                        <p>My current role as e-Learning Manager at Walbotle Campus requires a broad skillset including design, development, project management, client liaison and strategic planning.</p>
-                        <a href="#skills" class="btn btn-primary">Learn More</a>
+                        <p>My current role as e-Learning Manager at Walbottle Campus requires a broad skillset including design, development, project management, client liaison and strategic planning.</p>
+                        <p>&nbsp;</p>
+                        <a href="#skills" class="btn btn-primary">Learn More <i class="fa fa-chevron-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -79,8 +80,9 @@
                         <h4><i class="fa fa-fw fa-th-list"></i> Portfolio</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Descriptions of recently completed and current projects at Walbottle Campus.</p>
-                        <a href="#portfolio" class="btn btn-primary">Learn More</a>
+                        <p>Some explanations of recently completed and current web development projects I have been responsible for at Walbottle Campus.</p>
+                        <p>&nbsp;</p><p>&nbsp;</p>
+                        <a href="#portfolio" class="btn btn-primary">Learn More <i class="fa fa-chevron-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -91,7 +93,7 @@
         <!-- Features Section -->
         <div class="row" id="about">
             <div class="col-lg-12">
-                <h2 class="page-header">About me</h2>
+                <h2 class="page-header">Employment History</h2>
             </div>
             <div class="col-md-6">
                 <p><strong>Walbottle Campus</strong> Jan 2010 - date<br>
@@ -102,7 +104,7 @@
                 <p>Provided implementation and support for teaching and learning applications, content management systems, virtual learning environments and education support applications.</p>
                 <p><strong>Cramlington Learning Village</strong> Jun 2005 - Apr 2008<br>
                   <i>ICT Technician</i></p>
-                  <p>Provided onsite ICT support and web development along with other roles at an outstanding secondary school.</p>
+                  <p>Provided web development solutions and onsite ICT support to users with a broad range of abilities at an outstanding secondary school.</p>
                 <p><strong>University of Sunderland</strong> 2000 - 2004<br>
                   <i>BSc (Hons) Internet Information Systems</i></p>
                 <p>Web Development, Systems Analysis and Design, Object Oriented Programming, Database Management, Information Systems</p>
@@ -135,12 +137,11 @@
                 <div id="myTabContent" class="tab-content">
                     <div class="tab-pane fade active in" id="service-one">
                         <h4>Project Management</h4>
-                        <p>I am an advocate of agile project development methods and currently use the Scrum Methodology with my team</p>
-                        <p>Scrum is an agile process most commonly used for product development, especially software development.
-                          Scrum is a project management framework that is applicable to any project with aggressive deadlines, complex requirements and a degree of uniqueness.
-                          In Scrum, projects move forward via a series of iterations called sprints. A sprint period represents a specific outcome from any part of the project, rather than treating the project as a series of sequential milestones.</p>
-                          <p>At the end of each sprint, the team produces a potentially shippable product increment — i.e. working, high-quality software. Each day during the sprint, team members meet to discuss their progress and any impediments to completing the work for that sprint. This is known as the daily scrum, hence the name.</p>
-                        <p>In Scrum, a team is cross functional, meaning everyone is needed to take a feature from idea to implementation. This leads to highly skilled teams with each member having a broad skillbase to allow them to adapt to the project requirements. Directing and supporting the development of the team members is essential for the organisation.</p>
+						<p>I am an advocate of agile project development methods and currently use the Scrum Methodology with my team.</p>
+						<p>Scrum is an agile project management framework that is applicable to any project with aggressive deadlines, complex requirements and a degree of uniqueness.
+						In Scrum, projects move forward via a series of iterations called sprints. A sprint period represents a specific outcome from any part of the project, rather than treating the project as a series of sequential milestones.</p>
+						<p>At the end of each sprint, the team produces a potentially shippable product increment — i.e. working, high-quality software. Each day during the sprint, team members discuss their progress and any impediments to completing the work for that sprint. This is known as the daily scrum, hence the name.</p>
+						<p>A Scrum team is cross functional, meaning everyone is needed to take a feature from idea to implementation. This leads to highly skilled teams with each member having a broad skillbase to allow them to adapt to the project requirements. Directing and supporting the development of the team members is essential for the organisation.</p>
                     </div>
                     <div class="tab-pane fade" id="service-two">
                         <h4>Version Control</h4>
@@ -200,7 +201,7 @@
                         </p>
                       </div>
                       <div class="col-md-3">
-                        <h4>Programming Languages</h4>
+                        <h4>Languages</h4>
                         <p>
                             <ul>
                             <li>HTML(5)</li>
@@ -227,80 +228,86 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="thumbnail">
-                    <a href="portfolio-item.html">
+                   
                     <img class="img-responsive img-portfolio img-hover" src="./assets/img/student-dashboard-thumb.png" alt="">
                     <div class="caption">
                         <h3>Student Dashboard<br>
                             <small>Personalised Homepage</small>
                         </h3>
                         <p>The school portal is the central hub to all our e-learning elements. It provides a common centre for information dissemination and links to the various elements that the user will need. Single-sign-on (SSO), and personal profiles provide a seamless, personalised experience for each user.</p>
+                        <p><strong>Technologies used:</strong> Laravel, HTML5, CSS3, AngularJS, MySQL, PHP</p>
                     </div>
-                </a>
+                
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="thumbnail">
-                <a href="portfolio-item.html">
+                
                     <img class="img-responsive img-portfolio img-hover" src="./assets/img/vle.png" alt="">
                     <div class="caption">
                         <h3>Lesson Planning<br>
                             <small>Bespoke content management system</small>
                         </h3>
                         <p>When Walbottle Campus adopted a new lesson planning model we developed an online content management to enable staff to collaboratively plan lessons and provide a web based lesson delivery system. Over time the system grew to provide access to learning resources for students.</p>
+                        <p><strong>Technologies used:</strong> Codeigniter, HTML5, CSS3, Ajax, MySQL, PHP, Tiny MCE</p>
                     </div>
-                </a>
+                
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="thumbnail">
-                <a href="portfolio-item.html">
+                
                     <img class="img-responsive img-portfolio img-hover" src="./assets/dashboard.png" alt="">
                     <div class="caption">
                         <h3>Pastoral Logs<br>
                             <small>Centralised record keeping</small>
                         </h3>
-                        <p>A student's welfare is an integral part of Walbottle Campus. Centralised record keeping is essential to ensure students needs are managed appropriately. working closely with the EWO Manager a system was designed and put in place to enforce an efficent and effective procedure. </p>
+                        <p>A student's welfare is an integral part of Walbottle Campus. Centralised record keeping is essential to ensure students' needs are managed appropriately. working closely with the EWO Manager a system was designed and put in place to support an efficent and effective procedure. </p>
+                        <p><strong>Technologies used:</strong> Codeigniter, HTML5, CSS3, Ajax, MySQL, PHP, TinyMCE - rich text editing and file management</p>
                     </div>
-                </a>
+                
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="thumbnail">
-                <a href="portfolio-item.html">
+                
                     <img class="img-responsive img-portfolio img-hover" src="./assets/img/learn-space.png" alt="">
                     <div class="caption">
                         <h3>Learning Spaces<br>
                             <small>Sharing learning resources</small>
                         </h3>
                         <p>All subjects at Walbottle have their own web based learning space. Making resources available online through the cloud at any time and any place means that the learning environment is extended beyond the classroom. </p>
+                        <p><strong>Technologies used:</strong> HTML5, CSS3, PHP, Google Apps</p>
                     </div>
-                </a>
+                
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="thumbnail">
-                <a href="portfolio-item.html">
+                
                     <img class="img-responsive img-portfolio img-hover" src="./assets/img/rewards.png" alt="">
                     <div class="caption">
                         <h3>Rewards System<br>
                             <small>What do points mean?</small>
                         </h3>
-                        <p>Rewarding students' achievements is fundamental to the ethic of excellence at Walbottle Campus. A system was needed to manage rewards claimed by students. Teachers can easily access their class lists and allocate rewards points against criteria with a single click. Students can access the Rewards Shop to cash in their points and collect their rewards from their Year Leader.</p>
+                        <p>Rewarding students' achievements is fundamental to the ethic of excellence at Walbottle Campus. A system was needed to manage rewards earned by students. Teachers can easily access their class lists and allocate rewards points against criteria with a single click. Students can access the Rewards Shop to cash in their points and collect their rewards from their Year Leader.</p>
                     </div>
-                </a>
+                        <p><strong>Technologies used:</strong> Laravel, HTML5, CSS3, AngularJS, MySQL, PHP</p>
+                
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="thumbnail">
-                <a href="portfolio-item.html">
+                
                     <img class="img-responsive img-portfolio img-hover" src="./assets/img/reports.png" alt="">
                     <div class="caption">
                         <h3>Reports and Data<br>
                             <small>Recording progress</small>
                         </h3>
-                        <p>The school reports project reduces administration and teacher time for writing and printing reports. By importing attainment data from our MIS and combining it with teacher written reports we have reduced the time taken to complie, check and print students reports to be sent to parents.</p>
+                        <p>The school reports project reduces administration and teacher time for writing and printing reports. By importing attainment data from our MIS and combining it with teacher written reports we have reduced the time taken to compile, check and print student reports to be sent to parents.</p>
+                        <p><strong>Technologies used:</strong> Laravel, HTML5, CSS3, AngularJS, MySQL, PHP</p>
                     </div>
-                </a>
+                
                 </div>
             </div>
         </div>
@@ -314,7 +321,7 @@
         <div class="well">
             <div class="row">
                 <div class="col-md-8">
-                    <p></p>
+                    <p>I am constantly working to improve my skills; currently I am explring and improving my skills in RESTful APIs using the Laravel PHP Framework, AngularJS for dynamic views in web applications, dynamic CSS using LESS and the Google Apps APIs.</p>
                 </div>
                 <div class="col-md-4">
                     <a class="btn btn-lg btn-default btn-block" href="contact.php">Contact me!</a>

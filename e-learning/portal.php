@@ -53,39 +53,7 @@
             </div>
         </div>
 
-        <div class="row">
-
-            <div class="col-lg-12">
-                <h3 class="page-header">More information</h3>
-            </div>
-
-            <div class="col-sm-3 col-xs-6">
-                <a href="web.php">
-                    <img class="img-responsive portfolio-item" src="./assets/portal-small.png">
-                    <div class="caption">Why the Web?</div>
-                </a>
-            </div>
-
-            <div class="col-sm-3 col-xs-6">
-                <a href="cl.php">
-                    <img class="img-responsive portfolio-item" src="./assets/icon-cloud-small.png">
-                    <div class="caption">Cloud Learning</div>
-                </a>
-            </div>
-
-            <div class="col-sm-3 col-xs-6">
-                <a href="#">
-                    <img class="img-responsive portfolio-item" src="http://placehold.it/500x300">
-                </a>
-            </div>
-
-            <div class="col-sm-3 col-xs-6">
-                <a href="#">
-                    <img class="img-responsive portfolio-item" src="http://placehold.it/500x300">
-                </a>
-            </div>
-
-        </div>
+ 
 
     </div>
     <!-- /.container -->

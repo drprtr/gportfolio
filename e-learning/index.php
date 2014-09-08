@@ -2,18 +2,17 @@
 
     <div class="container">
 
-        <div class="row">
-
             <div class="col-lg-12">
+            <div class="well">
                 <h1>e-Learning</h1>
                 <p><strong>e-Learning </strong>is an umbrella term referring to the use of new digital technologies, including the internet and world wide web, to enhance the quality of learning. </p>
-                <p><strong>e-learning </strong>is a digital literacy it's about accessing digital materials, processing them and then demonstrating learning using digital means
+                <p><strong>e-learning </strong>is a digital literacy it's about accessing digital materials, processing them and then demonstrating learning using digital means.</p>
                 <p><strong>e-Learning</strong> is based on relatively simple information and communications technologies but it has potentially profound impacts on pedagogy – on the ways people teach and the ways people learn.</p>
                 <p><strong>e-Learning</strong> is a social process – it involves new forms of collaboration and networking. </p>
-               
+            </div>   
             </div>
 
-        </div>
+        
 
 
         <div class="row">
@@ -27,7 +26,7 @@
             <div class="col-lg-5 col-md-5">
                 <h3>Cloud Learning</h3>
                 <h4>The Technology</h4>
-                <p>Cloud Learning  provides the vehicle with which we can deliver learning to students, not just in lessons, but also wherever else they may be. Making resources available online through Cloud Learning at any time and any place means that the learning environment is extended beyond the classroom. </p>
+                <p>Cloud Learning is the vehicle with which we can deliver learning to students, not just in lessons, but also wherever else they may be. Making resources available online through Cloud Learning at any time and any place means that the learning environment is extended beyond the classroom. </p>
                 <a class="btn btn-primary" href="cl.php">Find out more <span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
 
@@ -125,5 +124,25 @@
         </div>
 
         <hr>
+    <div class="container">
 
-<?php include("footer.html"); ?>
+        <hr>
+
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Graeme Porter 2014</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- JavaScript -->
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+
+</body>
+
+</html>
